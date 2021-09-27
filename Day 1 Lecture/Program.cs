@@ -17,8 +17,10 @@ namespace Day_1_Lecture
             Console.WriteLine("Can you give me your hometown?");
             string homeTown = Console.ReadLine();
 
-            //Console.WriteLine("Your name is  " + name + ". Your age is " + age + ". Your hometown is " + homeTown + ".");
-            Console.WriteLine($"Your name is {name}. Your age is {age}. Your hometown is {homeTown}.");
+            Console.WriteLine("Can you give me your favorite food?");
+            string favFood = Console.ReadLine();
+
+            Console.WriteLine($"Your name is {name}. Your age is {age}. Your hometown is {homeTown}. Your favorite food is {favFood}.");
         }
     }
 }
