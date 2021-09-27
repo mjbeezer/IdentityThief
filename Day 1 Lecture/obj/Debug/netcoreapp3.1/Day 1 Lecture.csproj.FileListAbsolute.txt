@@ -1,0 +1,13 @@
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\bin\Debug\netcoreapp3.1\Day 1 Lecture.exe
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\bin\Debug\netcoreapp3.1\Day 1 Lecture.deps.json
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\bin\Debug\netcoreapp3.1\Day 1 Lecture.runtimeconfig.json
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\bin\Debug\netcoreapp3.1\Day 1 Lecture.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\bin\Debug\netcoreapp3.1\Day 1 Lecture.dll
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\bin\Debug\netcoreapp3.1\Day 1 Lecture.pdb
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.dll
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.pdb
+C:\Users\TheTower\source\repos\Day 1 Lecture\Day 1 Lecture\obj\Debug\netcoreapp3.1\Day 1 Lecture.genruntimeconfig.cache
